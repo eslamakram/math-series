@@ -4,3 +4,5 @@
 features: fibb lucas and sum series also do tests of them
 estimated time : 2 hours
 actual time : 5 hours
+
+<https://github.com/eslamakram/math-series/pull/1>
